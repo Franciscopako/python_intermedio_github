@@ -2,10 +2,10 @@
 #saludos.saludo()
 #print(saludos.nombre)
 
-from saludos import saludo_nombre
+#from saludos import saludo_nombre
 
-saludo_nombre("Lucio")
-saludo_nombre("Pako")
+#saludo_nombre("Lucio")
+#saludo_nombre("Pako")
 
 #from saludos import *
 #
@@ -22,6 +22,8 @@ saludo_nombre("Pako")
 
 #saludo_1
 
-#from carpetas import crear_carpetas
+from carpeta import crear_carpetas, borrar_carpeta
 
 #crear_carpetas("prueba_carpeta", 3)
+
+borrar_carpeta("prueba_carpeta",3)
