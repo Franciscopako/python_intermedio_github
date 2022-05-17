@@ -1,0 +1,4 @@
+nucleo de CPU :4
+Frecuencia de CPU :scpufreq(current=3192.0, min=0.0, max=3192.0)
+Memorias del CPU :svmem(total=8478253056, available=2861367296, percent=66.3, used=5616885760, free=2861367296)
+Disco del CPU :sdiskusage(total=511510712320, used=63067758592, free=448442953728, percent=12.3)
