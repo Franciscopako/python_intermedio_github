@@ -1,0 +1,4 @@
+5083,5202,Kirby's Dream Land 3,SNES,1997,Platform,Nintendo,0,0,0.36,0,
+5756,5898,Super Bomberman 5,SNES,1997,Puzzle,Hudson Soft,0,0,0.3,0,
+8224,8451,Itoi Shigesato no Bass Tsuri No. 1,SNES,1997,Sports,Nintendo,0,0,0.17,0,
+8326,8554,Jikkyou Powerful Pro Yakyuu 3 '97 Haru,SNES,1997,Sports,Konami Digital Entertainment,0,0,0.16,0,

@@ -1,0 +1,2 @@
+6502,6671,Final Fantasy II,WS,2001,Role-Playing,SquareSoft,0,0,0.25,0,
+13733,14174,SD Gundam G Generation: Gather Beat 2,WS,2001,Strategy,Namco Bandai Games,0,0,0.03,0,

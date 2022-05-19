@@ -1,0 +1,6 @@
+350,354,Doom II: Hell on Earth,PC,1994,Shooter,Virgin Interactive,2.05,1.4,0,0.16,
+515,522,Myst,PC,1994,Adventure,Red Orb,0.02,2.79,0,0,
+643,655,Monopoly,PC,1994,Misc,Hasbro Interactive,1.49,0.81,0,0.1,
+793,808,Warcraft: Orcs & Humans,PC,1994,Strategy,Activision,0.89,1.08,0,0.11,
+860,876,Star Wars: Dark Forces,PC,1994,Shooter,LucasArts,1.09,0.77,0,0.09,
+15437,16002,Mortal Kombat,PC,1994,Fighting,Acclaim Entertainment,0.01,0,0,0,

@@ -1,0 +1,4 @@
+660,672,Kirby's Dream Land 2,GB,1995,Platform,Nintendo,0.69,0.14,1.48,0.05,
+3199,3273,Mario's Picross,GB,1995,Puzzle,Nintendo,0,0,0.62,0,
+5503,5634,Kirby's Block Ball,GB,1995,Puzzle,Nintendo,0,0,0.32,0,
+5691,5830,Gameboy Gallery,GB,1995,Misc,Nintendo,0,0,0.3,0,

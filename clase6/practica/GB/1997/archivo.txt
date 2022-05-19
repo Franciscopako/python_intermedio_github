@@ -1,0 +1,8 @@
+1260,1282,Wario Land II,GB,1997,Platform,Nintendo,0.7,0.35,0.39,0.04,
+1305,1328,Game de Hakken!! Tamagotchi 2,GB,1997,Simulation,Namco Bandai Games,0,0,1.44,0.01,
+1608,1638,Game & Watch Gallery 2,GB,1997,Misc,Nintendo,0.76,0.3,0.12,0.04,
+2026,2064,Game & Watch Gallery,GB,1997,Misc,Nintendo,0.63,0.25,0.09,0.03,
+4693,4796,Medarot: Kabuto / Kuwagata Version,GB,1997,Role-Playing,Imagineer,0,0,0.4,0,
+5042,5156,Mini-Yonku GB: Let's & Go!!,GB,1997,Strategy,ASCII Entertainment,0,0,0.37,0,
+6836,7016,Harvest Moon GB,GB,1997,Simulation,Victor Interactive,0,0,0.23,0,
+7076,7264,Kirby's Star Stacker,GB,1997,Puzzle,Nintendo,0,0,0.22,0,

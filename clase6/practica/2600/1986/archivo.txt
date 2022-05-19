@@ -1,0 +1,2 @@
+4972,5084,Solaris,2600,1986,Shooter,Atari,0.35,0.02,0,0,
+5812,5958,RealSports Boxing,2600,1986,Sports,Atari,0.28,0.02,0,0,

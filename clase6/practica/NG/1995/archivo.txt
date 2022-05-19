@@ -1,0 +1,4 @@
+7305,7500,The King of Fighters '95,NG,1995,Fighting,SNK,0,0,0.2,0,
+11189,11507,Samurai Shodown III,NG,1995,Fighting,SNK,0,0,0.08,0,
+13976,14432,Far East of Eden Shinden,NG,1995,Fighting,Hudson Soft,0,0,0.03,0,
+15025,15556,Super Dodge Ball,NG,1995,Sports,Technos Japan Corporation,0,0,0.02,0,

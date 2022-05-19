@@ -1,0 +1,6 @@
+279,282,Half-Life,PC,1997,Shooter,Vivendi Games,4.03,0,0.09,0,
+627,636,Riven: The Sequel to Myst,PC,1997,Adventure,Red Orb,1.52,0.82,0,0.1,
+640,649,Theme Hospital,PC,1997,Strategy,Electronic Arts,2.3,0.1,0,0,
+684,696,Tomb Raider II,PC,1997,Action,Eidos Interactive,0.91,1.25,0,0.13,
+15780,16382,Grand Prix Legends,PC,1997,Racing,Vivendi Games,0,0.01,0,0,
+15832,16439,Worms 2,PC,1997,Strategy,Microprose,0,0.01,0,0,

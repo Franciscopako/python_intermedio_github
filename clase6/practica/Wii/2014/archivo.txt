@@ -1,0 +1,6 @@
+688,700,Just Dance 2015,Wii,2014,Misc,Ubisoft,1.11,0.98,0,0.2,
+1933,1969,Skylanders: Trap Team,Wii,2014,Action,Activision,0.42,0.54,0,0.08,
+2657,2718,FIFA 15,Wii,2014,Sports,Electronic Arts,0.24,0.46,0,0.06,
+6110,6268,How to Train Your Dragon 2,Wii,2014,Adventure,Little Orbit,0.05,0.2,0,0.02,
+12206,12564,Disney Planes Fire & Rescue,Wii,2014,Action,Disney Interactive Studios,0,0.05,0,0,
+14528,15024,Penguins of Madagascar,Wii,2014,Action,Namco Bandai Games,0,0.02,0,0,

@@ -1,0 +1,7 @@
+467,474,The Sims: Livin Large,PC,2000,Misc,Electronic Arts,1.67,1.18,0,0.13,
+1440,1465,Command & Conquer: Red Alert 2,PC,2000,Strategy,Electronic Arts,1.32,0.02,0,0,
+8818,9057,Age of Empires: Collector's Edition,PC,2000,Strategy,Ubisoft,0.02,0.1,0,0.02,
+9202,9449,Diablo II,PC,2000,Role-Playing,Havas Interactive,0.01,0.09,0,0.02,
+12891,13289,The Sims,PC,2000,Simulation,Electronic Arts,0.01,0.03,0,0.01,
+15118,15654,Airline Tycoon,PC,2000,Simulation,Interplay,0,0.01,0,0,
+15589,16166,Deus Ex,PC,2000,Role-Playing,Eidos Interactive,0,0.01,0,0,

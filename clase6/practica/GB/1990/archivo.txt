@@ -1,0 +1,3 @@
+387,392,F-1 Race,GB,1990,Racing,Nintendo,1.73,0.69,0.59,0.4,
+1738,1772,Qix,GB,1990,Puzzle,Nintendo,0.51,0.2,0.41,0.03,
+5370,5495,Extra Bases,GB,1990,Sports,Namco Bandai Games,0,0,0.33,0,

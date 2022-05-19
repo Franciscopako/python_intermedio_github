@@ -1,0 +1,2 @@
+4063,4149,Double Dragon,2600,1989,Action,Activision,0.45,0.02,0,0.01,
+8526,8759,Klax,2600,1989,Puzzle,Atari,0.14,0.01,0,0,

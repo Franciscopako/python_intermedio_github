@@ -1,0 +1,5 @@
+274,277,Teenage Mutant Ninja Turtles,NES,1989,Action,Palcom,3.38,0.44,0.31,0.04,
+1074,1091,Disney's DuckTales,NES,1989,Platform,Capcom,0.91,0.3,0.42,0.04,
+1826,1861,Famicom Jump: Eiyuu Retsuden,NES,1989,Role-Playing,Namco Bandai Games,0,0,1.1,0,
+2389,2441,Castlevania III: Dracula's Curse,NES,1989,Platform,Konami Digital Entertainment,0.4,0.07,0.37,0.01,
+12274,12638,Adventures of Lolo,NES,1989,Puzzle,HAL Laboratory,0.06,0,0,0,

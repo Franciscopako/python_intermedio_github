@@ -1,0 +1,6 @@
+984,1000,2 Games in 1 Double Pack: The Incredibles / Finding Nemo: The Continuing Adventures,GBA,2007,Action,THQ,1.26,0.47,0,0.03,
+1633,1664,Shrek / Shrek 2 2-in-1 Gameboy Advance Video,GBA,2007,Misc,N/A,0.87,0.32,0,0.02,
+6895,7078,Barbie as The Island Princess,GBA,2007,Adventure,Activision,0.16,0.06,0,0,
+7504,7705,Ratatouille,GBA,2007,Action,THQ,0.14,0.05,0,0,
+15167,15707,Cabbage Patch Kids: The Patch Puppy Rescue,GBA,2007,Misc,D3Publisher,0.01,0,0,0,
+15798,16401,Petz: Hamsterz Life 2,GBA,2007,Misc,Ubisoft,0.01,0,0,0,

@@ -1,0 +1,6 @@
+417,422,Baseball,NES,1983,Sports,Nintendo,0.73,0.1,2.35,0.02,
+690,702,Mario Bros.,NES,1983,Platform,Nintendo,0.51,0.12,1.63,0.02,
+752,765,Mahjong,NES,1983,Misc,Nintendo,0.01,0,2.13,0,
+1777,1811,Donkey Kong,NES,1983,Platform,Nintendo,0.23,0.05,0.84,0.01,
+1806,1841,Donkey Kong Jr.,NES,1983,Platform,Nintendo,0.33,0.07,0.7,0.01,
+1828,1863,Popeye,NES,1983,Platform,Nintendo,0.51,0.12,0.45,0.02,

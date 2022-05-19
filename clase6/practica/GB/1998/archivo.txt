@@ -1,0 +1,8 @@
+31,31,,GB,1998,Role-Playing,Nintendo,5.89,5.04,3.12,0.59,
+333,336,Pokémon Trading Card Game,GB,1998,Strategy,Nintendo,1.49,0.73,1.38,0.1,
+663,675,Dragon Warrior Monsters,GB,1998,Role-Playing,Eidos Interactive,0,0,2.34,0.01,
+717,730,The Legend of Zelda: Link's Awakening DX,GB,1998,Adventure,Nintendo,1,0.63,0.45,0.13,
+875,891,Tetris DX,GB,1998,Puzzle,Nintendo,1.06,0.6,0.2,0.07,
+1126,1145,Yu-Gi-Oh! Duel Monsters,GB,1998,Strategy,Konami Digital Entertainment,0,0,1.61,0.01,
+4877,4985,Wario Land II (GBC),GB,1998,Platform,Nintendo,0,0,0.38,0,
+11764,12103,Power Pro GB,GB,1998,Sports,Konami Digital Entertainment,0,0,0.07,0,

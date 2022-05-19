@@ -1,0 +1,8 @@
+792,807,Sim Theme Park,PC,1998,Strategy,Electronic Arts,2.04,0.04,0,0,
+3205,3279,Tomb Raider III: Adventures of Lara Croft,PC,1998,Action,Eidos Interactive,0.59,0.03,0,0,
+4584,4686,Tomb Raider: The Last Revelation,PC,1998,Action,Eidos Interactive,0.41,0,0,0,
+12836,13231,StarCraft,PC,1998,Strategy,Activision,0,0.04,0,0.01,
+13606,14038,Caesar III,PC,1998,Strategy,Vivendi Games,0,0.03,0,0.01,
+13638,14073,Planescape: Torment,PC,1998,Role-Playing,Interplay,0.01,0.02,0,0.01,
+14450,14936,Pharaoh,PC,1998,Strategy,Vivendi Games,0,0.02,0,0,
+14636,15137,Homeworld,PC,1998,Strategy,Vivendi Games,0,0.02,0,0,

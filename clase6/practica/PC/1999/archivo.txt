@@ -1,0 +1,7 @@
+864,880,Who wants to be a millionaire,PC,1999,Misc,Disney Interactive Studios,1.94,0,0,0,
+1186,1207,Command & Conquer: Tiberian Sun,PC,1999,Strategy,Westwood Studios,1.55,0,0,0,
+1891,1926,Championship Manager 99/00,PC,1999,Sports,Eidos Interactive,0,0.98,0,0.09,
+10403,10693,Age of Empires II: The Age of Kings,PC,1999,Strategy,Microsoft Game Studios,0.01,0.08,0,0.02,
+12364,12732,Dungeon Keeper 2,PC,1999,Action,Electronic Arts,0,0.05,0,0.01,
+15144,15682,The Longest Journey,PC,1999,Adventure,Empire Interactive,0,0.01,0,0,
+15618,16198,Legoland,PC,1999,Action,LEGO Media,0,0.01,0,0,

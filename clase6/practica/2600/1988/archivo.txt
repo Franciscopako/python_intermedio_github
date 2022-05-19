@@ -1,0 +1,2 @@
+3858,3942,River Raid II,2600,1988,Shooter,Activision,0.47,0.03,0,0.01,
+6765,6941,Rampage,2600,1988,Action,Activision,0.22,0.01,0,0,

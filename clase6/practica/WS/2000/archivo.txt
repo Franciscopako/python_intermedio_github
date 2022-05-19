@@ -1,0 +1,2 @@
+3849,3933,Final Fantasy,WS,2000,Role-Playing,SquareSoft,0,0,0.51,0,
+8088,8308,Super Robot Taisen Compact 2 Dai-1-Bu,WS,2000,Strategy,Namco Bandai Games,0,0,0.17,0,

@@ -1,0 +1,2 @@
+8983,9225,Doukyuusei,TG16,1995,Adventure,NEC,0,0,0.14,0,
+15007,15538,Ginga Fukei Densetsu: Sapphire,TG16,1995,Shooter,Hudson Soft,0,0,0.02,0,

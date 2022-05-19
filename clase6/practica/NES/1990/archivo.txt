@@ -1,0 +1,8 @@
+215,216,Dr. Mario,NES,1990,Puzzle,Nintendo,2.62,0.6,1.52,0.1,
+441,447,Dragon Warrior IV,NES,1990,Role-Playing,Enix Corporation,0.08,0,3.03,0.01,
+711,724,Teenage Mutant Ninja Turtles II: The Arcade Game,NES,1990,Action,Konami Digital Entertainment,1.74,0.25,0.21,0.03,
+1258,1280,Nintendo World Cup,NES,1990,Sports,Nintendo,0.28,0.5,0.65,0.05,
+1364,1387,Final Fantasy III,NES,1990,Role-Playing,SquareSoft,0,0,1.39,0.01,
+1666,1697,Disney's Chip 'n Dale: Rescue Rangers,NES,1990,Platform,Capcom,0.68,0.14,0.35,0.02,
+1695,1728,Mega Man 3,NES,1990,Platform,Capcom,0.68,0.1,0.39,0,
+5723,5864,Famista '91,NES,1990,Sports,Namco Bandai Games,0,0,0.3,0,

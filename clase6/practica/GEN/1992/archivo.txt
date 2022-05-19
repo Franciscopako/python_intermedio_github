@@ -1,0 +1,6 @@
+144,144,Sonic the Hedgehog 2,GEN,1992,Platform,Sega,4.47,1.2,0.16,0.19,
+558,565,Mortal Kombat,GEN,1992,Fighting,Arena Entertainment,1.95,0.63,0,0.09,
+814,829,NBA Jam,GEN,1992,Sports,Arena Entertainment,1.75,0.25,0,0.05,
+1084,1101,Street Fighter II': Special Champion Edition,GEN,1992,Fighting,Sega,1,0.3,0.31,0.04,
+9313,9563,Gunstar Heroes,GEN,1992,Shooter,Sega,0,0,0.13,0,
+9539,9798,Ecco the Dolphin,GEN,1992,Adventure,Sega,0,0,0.12,0,

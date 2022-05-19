@@ -1,0 +1,6 @@
+5,5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,11.27,8.89,10.22,1,
+662,674,Donkey Kong Land II,GB,1996,Platform,Nintendo,1.39,0.48,0.4,0.08,
+1302,1325,Tamagotchi,GB,1996,Simulation,Namco Bandai Games,0,0,1.44,0.01,
+5153,5274,Picross 2,GB,1996,Puzzle,Nintendo,0,0,0.35,0,
+6161,6324,Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikagemura no Kaibutsu,GB,1996,Role-Playing,ChunSoft,0,0,0.27,0,
+6939,7122,Tetris Attack,GB,1996,Puzzle,Nintendo,0,0,0.23,0,

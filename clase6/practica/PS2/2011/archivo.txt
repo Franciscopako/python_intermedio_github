@@ -1,0 +1,7 @@
+9150,9396,MLB 11: The Show,PS2,2011,Sports,Sony Computer Entertainment,0.06,0.05,0,0.02,
+9864,10141,WWE All Stars,PS2,2011,Fighting,THQ,0.05,0.04,0,0.01,
+10915,11226,FIFA 12,PS2,2011,Sports,Electronic Arts,0,0.02,0,0.06,
+12136,12491,Pro Evolution Soccer 2012,PS2,2011,Action,Konami Digital Entertainment,0,0,0.06,0,
+12806,13201,Major League Baseball 2K11,PS2,2011,Sports,Take-Two Interactive,0.02,0.02,0,0.01,
+14786,15296,Moujuutsukai to Oujisama: Snow Bride,PS2,2011,Adventure,Idea Factory,0,0,0.02,0,
+15488,16059,Sangoku Koi Senki: Otome no Heihou!,PS2,2011,Adventure,Prototype,0,0,0.01,0,

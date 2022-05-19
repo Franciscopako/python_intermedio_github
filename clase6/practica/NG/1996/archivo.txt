@@ -1,0 +1,2 @@
+12420,12789,The King of Fighters '96,NG,1996,Fighting,SNK,0,0,0.06,0,
+13489,13916,Art of Fighting 3: The Path of the Warrior,NG,1996,Fighting,SNK,0,0,0.04,0,

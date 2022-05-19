@@ -1,0 +1,7 @@
+994,1010,Yoshi,NES,1991,Puzzle,Nintendo,0.7,0.13,0.91,0.01,
+1372,1396,Teenage Mutant Ninja Turtles III: The Manhattan Project,NES,1991,Action,Konami Digital Entertainment,1.05,0.17,0.15,0.02,
+2025,2063,NES Open Tournament Golf,NES,1991,Sports,Nintendo,0.41,0.1,0.47,0.02,
+2190,2235,Mega Man 4,NES,1991,Platform,Capcom,0.51,0.09,0.32,0.01,
+4358,4453,Bomberman II,NES,1991,Puzzle,Hudson Soft,0.16,0.03,0.15,0.1,
+5521,5653,Tetris 2 + Bombliss,NES,1991,Puzzle,BPS,0,0,0.32,0,
+6009,6163,Famista '92,NES,1991,Sports,Namco Bandai Games,0,0,0.28,0,

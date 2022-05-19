@@ -1,0 +1,7 @@
+51,51,Super Mario Land 2: 6 Golden Coins,GB,1992,Adventure,Nintendo,6.16,2.04,2.69,0.29,
+191,192,Kirby's Dream Land,GB,1992,Platform,Nintendo,2.71,0.61,1.7,0.11,
+316,319,The Legend of Zelda: Link's Awakening,GB,1992,Action,Nintendo,2.21,0.96,0.54,0.13,
+732,745,Kirby's Pinball Land,GB,1992,Misc,Nintendo,0.87,0.17,1.1,0.05,
+1061,1078,Yoshi's Cookie,GB,1992,Puzzle,Nintendo,0.59,0.24,0.82,0.03,
+1581,1610,Tetris 2 (All region sales),GB,1992,Puzzle,Nintendo,0.56,0.22,0.43,0.03,
+6885,7067,Tetris 2 (weekly jp sales),GB,1992,Puzzle,Nintendo,0,0,0.23,0,

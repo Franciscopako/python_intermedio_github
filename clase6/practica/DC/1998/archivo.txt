@@ -1,0 +1,7 @@
+629,638,Sonic Adventure,DC,1998,Platform,Sega,1.26,0.61,0.46,0.08,
+5040,5154,Virtua Fighter 3tb,DC,1998,Fighting,Sega,0,0,0.37,0,
+6286,6452,The House of the Dead 2,DC,1998,Shooter,Sega,0,0,0.26,0,
+8830,9069,Power Stone,DC,1998,Fighting,Eidos Interactive,0,0,0.14,0,
+11051,11365,Godzilla Generations,DC,1998,Action,Sega,0,0,0.08,0,
+11923,12271,July,DC,1998,Adventure,Fortyfive,0,0,0.06,0,
+12115,12468,PenPen TriIceLon,DC,1998,Racing,Infogrames,0,0,0.06,0,

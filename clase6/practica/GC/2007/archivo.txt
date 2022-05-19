@@ -1,0 +1,4 @@
+8788,9027,Ratatouille,GC,2007,Action,THQ,0.11,0.03,0,0,
+11330,11655,Madden NFL 08,GC,2007,Sports,Electronic Arts,0.06,0.02,0,0,
+13118,13523,Disney's Meet the Robinsons,GC,2007,Action,Disney Interactive Studios,0.03,0.01,0,0,
+15700,16295,Surf's Up,GC,2007,Sports,Ubisoft,0.01,0,0,0,

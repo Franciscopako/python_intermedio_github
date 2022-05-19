@@ -1,0 +1,6 @@
+3053,3120,Kung-Fu Master,2600,1987,Action,Activision,0.6,0.04,0,0.01,
+4109,4196,Commando,2600,1987,Action,Activision,0.44,0.02,0,0,
+4301,4395,Defender II,2600,1987,Shooter,Atari,0.42,0.02,0,0,
+6418,6585,Desert Falcon,2600,1987,Shooter,Atari,0.24,0.01,0,0,
+11392,11718,Super Football,2600,1987,Sports,Atari,0.07,0,0,0,
+11424,11751,Super Baseball,2600,1987,Sports,Atari,0.07,0,0,0,

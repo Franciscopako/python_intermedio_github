@@ -1,0 +1,4 @@
+1641,1672,Just Dance 2016,Wii,2015,Misc,Ubisoft,0.52,0.59,0,0.1,
+6301,6467,Skylanders: SuperChargers,Wii,2015,Action,Activision,0.05,0.19,0,0.02,
+12082,12433,Barbie and Her Sisters Puppy Rescue,Wii,2015,Action,Namco Bandai Games,0,0.06,0,0,
+13870,14322,Monster High: New Ghoul in School,Wii,2015,Action,Little Orbit,0,0.03,0,0,

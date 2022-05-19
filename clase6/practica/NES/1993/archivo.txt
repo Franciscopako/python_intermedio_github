@@ -1,0 +1,4 @@
+996,1012,Kirby's Adventure,NES,1993,Platform,Nintendo,0.79,0.14,0.8,0.02,
+2074,2113,Tetris 2,NES,1993,Puzzle,Nintendo,0.62,0.13,0.21,0.02,
+3764,3846,Mega Man 6,NES,1993,Platform,Capcom,0.28,0.07,0.16,0.01,
+5087,5206,Jurassic Park,NES,1993,Action,Ocean,0.25,0.1,0,0.01,

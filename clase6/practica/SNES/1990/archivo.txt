@@ -1,0 +1,4 @@
+19,19,Super Mario World,SNES,1990,Platform,Nintendo,12.78,3.75,3.54,0.55,
+503,510,F-Zero,SNES,1990,Racing,Nintendo,1.37,0.51,0.89,0.07,
+1171,1192,Final Fight,SNES,1990,Action,Capcom,0.67,0.17,0.69,0.03,
+1760,1794,Pilotwings,SNES,1990,Simulation,Nintendo,0.46,0.17,0.48,0.02,

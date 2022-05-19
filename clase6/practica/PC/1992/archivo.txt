@@ -1,0 +1,5 @@
+754,767,SimCity 2000,PC,1992,Simulation,Maxis,1.2,0.84,0,0.1,
+2574,2635,The 7th Guest,PC,1992,Adventure,Virgin Interactive,0.01,0.77,0,0,
+12171,12528,Syndicate,PC,1992,Strategy,Electronic Arts,0,0.05,0,0.01,
+14139,14602,Doom,PC,1992,Shooter,id Software,0.02,0,0,0,
+15502,16076,Empire Deluxe,PC,1992,Strategy,New World Computing,0.01,0,0,0,

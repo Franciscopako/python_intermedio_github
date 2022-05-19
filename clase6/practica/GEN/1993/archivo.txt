@@ -1,0 +1,7 @@
+7705,7912,Shining Force II,GEN,1993,Strategy,Sega,0,0,0.19,0,
+8673,8910,Super Street Fighter II,GEN,1993,Fighting,Capcom,0,0,0.15,0,
+11619,11953,Ecco: The Tides of Time,GEN,1993,Adventure,Sega,0,0,0.07,0,
+11728,12067,Street Fighter II': Special Champion Edition (JP weekly sales),GEN,1993,Action,Capcom,0,0,0.07,0,
+11888,12233,Streets of Rage 3,GEN,1993,Action,Sega,0,0,0.07,0,
+12564,12947,Dynamite Headdy,GEN,1993,Platform,Sega,0,0,0.05,0,
+12915,13313,Beyond Oasis,GEN,1993,Role-Playing,Sega,0,0,0.05,0,

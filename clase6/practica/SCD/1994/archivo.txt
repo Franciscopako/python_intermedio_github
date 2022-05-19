@@ -1,0 +1,5 @@
+8777,9016,Shining Force CD,SCD,1994,Strategy,Sega,0,0,0.14,0,
+11426,11753,Formula One World Championship: Beyond the Limit,SCD,1994,Racing,Sega,0,0,0.07,0,
+12213,12572,Record of Lodoss War: Eiyuu Sensou,SCD,1994,Role-Playing,Sega,0,0,0.06,0,
+12589,12973,Game no Kanzume Vol 2,SCD,1994,Misc,Sega,0,0,0.05,0,
+13054,13454,Game no Kanzume Vol 1,SCD,1994,Misc,Sega,0,0,0.04,0,

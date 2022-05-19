@@ -1,0 +1,3 @@
+184,185,Super Mario Land 3: Wario Land,GB,1994,Platform,Nintendo,2.49,0.98,1.57,0.15,
+303,306,Donkey Kong Land,GB,1994,Platform,Nintendo,1.97,0.76,1.07,0.11,
+450,456,Donkey Kong,GB,1994,Platform,Nintendo,1.57,0.62,0.55,0.34,

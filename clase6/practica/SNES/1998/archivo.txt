@@ -1,0 +1,2 @@
+8984,9226,RockMan & Forte,SNES,1998,Platform,Capcom,0,0,0.14,0,
+11066,11381,Derby Stallion 98,SNES,1998,Sports,ASCII Entertainment,0,0,0.08,0,
